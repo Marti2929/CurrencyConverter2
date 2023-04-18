@@ -6,7 +6,7 @@ My first document with *input* command.
 It's simply currency converter letting convert PLN value to euro, dollar and pound value with the constant rate defined inside the document.
 That's the second approach to the task using radio buttons to choose the currency.
 
-![QuickLook](images/screenshot.png)
+![QuickLook](images/screenshot.PNG)
 
 ## Link
 
